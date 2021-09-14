@@ -51,6 +51,12 @@ export default {
       fieldset: "workDetails",
     },
     {
+      title: "Loom Embed",
+      name: "loomEmbed",
+      type: "text",
+      fieldset: "workDetails",
+    },
+    {
       title: "Content",
       name: "content",
       type: "array",
